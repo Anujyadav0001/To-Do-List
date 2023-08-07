@@ -1,5 +1,4 @@
-# Remindify
-### "Never forget a task again with Remindify! 
+
 
 Remindify is a MERN stack app that can easily add tasks with their deadlines to ensure that you stay on top of your to-do list. Once you've added a task, our app will automatically send you a WhatsApp message at the specified time to remind you of what you need to do.
 
@@ -13,8 +12,7 @@ Remindify uses Twilio, a trusted messaging platform, to ensure that you receive 
 5) Twilio
 6) GitHub
 
-# Demo Video:
-YouTube: https://www.youtube.com/watch?v=oFDxkR30u1U
+
 <br>
 # Overview:
 ### Frontend View
